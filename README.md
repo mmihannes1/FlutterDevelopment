@@ -1,2 +1,2 @@
 # FlutterDevelopment
-Assignment and project from a summer course in flutter. 
+Assignments and a project from a summer course in flutter. 
