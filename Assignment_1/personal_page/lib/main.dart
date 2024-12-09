@@ -1,11 +1,8 @@
 /* A File for creating a static profile page 
 The code is written by Hannes Lundberg */
 
-import 'dart:ui';
 
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 
 void main() {
   runApp(const MyApp());
